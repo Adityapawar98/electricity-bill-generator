@@ -2,7 +2,7 @@
 
 **Database Name: ebillsystem**
 
-**Developed by Lakshmi Narayana**
+**Developed by Aditya Pawar**
 
 **Recommended PHP Version 5.6 or Newer**
 
